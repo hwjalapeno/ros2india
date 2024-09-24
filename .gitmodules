@@ -1,0 +1,3 @@
+[submodule "Navrover"]
+	path = Navrover
+	url = https://github.com/jj7258/NavRover.git
